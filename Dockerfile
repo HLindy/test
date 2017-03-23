@@ -1,2 +1,2 @@
 from alpine:latest
-CMD echo '123'
+CMD echo '1234'
